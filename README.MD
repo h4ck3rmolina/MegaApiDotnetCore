@@ -144,7 +144,7 @@ src
 │   ├── 📂 Repositories     [Repository pattern]
 ```
 
-## :Issue: Images
+## :gear: Images
 ## License This software is licensed under the terms of the [MIT]
 
 ⌨️ FelipeAguiar -
